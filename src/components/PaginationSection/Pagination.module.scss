@@ -1,0 +1,13 @@
+.paginationItem {
+  background-color: white !important;
+  color: black;
+  border-radius: 8px;
+  overflow: hidden;
+  &:hover {
+    box-shadow: 0 4px 15px rgba(116, 157, 206, 0.5);
+  }
+}
+.active {
+ 
+  color: white;
+}
